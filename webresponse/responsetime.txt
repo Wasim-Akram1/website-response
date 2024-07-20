@@ -1,0 +1,6 @@
+84 requests
+2.7 MB transferred
+6.8 MB resources
+Finish: 6.57 s
+DOMContentLoaded: 1.11 s
+Load: 6.19 s
